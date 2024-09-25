@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rm /usr/bin/r2
+sudo rm /usr/local/bin/r2
