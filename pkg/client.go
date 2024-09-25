@@ -15,7 +15,7 @@ import (
 )
 
 // Config holds the configuration for the R2 client. This is used to authenticate and connect to the
-// R2 API. The profile is the name of the profile in the ~/.r2 configuration file. The account ID is
+// R2 API. The profile is the name of the profile in the ~/.config/r2/config configuration file. The account ID is
 // the ID of the R2 account. The access key ID and secret access key are the credentials for the
 // account.
 type Config struct {
